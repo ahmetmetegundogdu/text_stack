@@ -1,0 +1,16 @@
+C:\Users\gundo\source\repos\TextStack\bin\Debug\net8.0-windows\TextStack.exe
+C:\Users\gundo\source\repos\TextStack\bin\Debug\net8.0-windows\TextStack.deps.json
+C:\Users\gundo\source\repos\TextStack\bin\Debug\net8.0-windows\TextStack.runtimeconfig.json
+C:\Users\gundo\source\repos\TextStack\bin\Debug\net8.0-windows\TextStack.dll
+C:\Users\gundo\source\repos\TextStack\bin\Debug\net8.0-windows\TextStack.pdb
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.Form1.resources
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.csproj.GenerateResource.cache
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.AssemblyInfoInputs.cache
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.AssemblyInfo.cs
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.csproj.CoreCompileInputs.cache
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.dll
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\refint\TextStack.dll
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.pdb
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\TextStack.genruntimeconfig.cache
+C:\Users\gundo\source\repos\TextStack\obj\Debug\net8.0-windows\ref\TextStack.dll
