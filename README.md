@@ -3,7 +3,7 @@ Data Structures Practice Project
 This project was developed for a **Data Structures** course to demonstrate the use of **Stacks** and **Queues**.
 
 Features
-- Text editor simulation** using two stacks (`undo` / `redo`)
+- Text editor simulation using two stacks (`undo` / `redo`)
 - Supports basic operations:
   - write
   - undo
